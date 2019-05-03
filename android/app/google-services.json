@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433327813913",
+    "firebase_url": "https://nifpro.firebaseio.com",
+    "project_id": "nifpro",
+    "storage_bucket": "nifpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433327813913:android:135d95ab050fefdf",
+        "android_client_info": {
+          "package_name": "com.example.nifprotask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433327813913-0i26kibl3n3cio2fhf19tm9pbvu9qpd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYI5nyjb79hXWWtX78ANL4Z5DldjEp4Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433327813913-0i26kibl3n3cio2fhf19tm9pbvu9qpd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
